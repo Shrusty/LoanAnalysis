@@ -4,7 +4,7 @@ https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-datase
    
 python -m venv venv
 
-2. Activate it
+2. Activate
 
 venv\Scripts\activate
 
