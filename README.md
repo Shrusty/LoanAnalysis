@@ -12,3 +12,15 @@ venv\Scripts\activate
 
 pip install -r requirements.txt
 
+4. Machine learning models used
+   Logistic Regression and Random Forest to identify critical factors.
+
+5. Steps
+a.Train the model
+b.printing accuracy
+c.precision recall
+d.f1 score
+e.prediction on example data
+
+
+
